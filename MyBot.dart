@@ -27,7 +27,6 @@ class MyBot implements Bot {
   }
   
   void onEnd() {
-    
   }
 }
 
